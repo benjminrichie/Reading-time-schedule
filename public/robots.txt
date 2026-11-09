@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://gistyard.com.ng
+
+# Sitemaps
+Sitemap: https://gistyard.com.ng/sitemap.xml
