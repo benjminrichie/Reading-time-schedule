@@ -1,9 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   // Remove output: 'export' to enable API routes and middleware
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
   images: { unoptimized: true },
   async headers() {
     return [
